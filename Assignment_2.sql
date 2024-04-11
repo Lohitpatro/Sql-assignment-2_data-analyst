@@ -1,3 +1,5 @@
+/*new*/
+
 /*Question 1:
 Retrieve the total number of rentals made in the Sakila database.
 Hint: Use the COUNT() function.*/
